@@ -15,9 +15,9 @@ Data Description
 - *Size of dataset:* 1,500+ players, 30 teams
 
 Analytical Approach
-- Data cleaning and preprocessing using Power BI
-- Exploratory data analysis (EDA) using Power BI
-- Data visualization using Power BI
+- Data cleaning and preprocessing using Power bi
+- Exploratory data analysis (EDA) using Excel
+- Data visualization using Excel
 
 Key Insights & Findings
 - Top-performing players in the league are those with high efficiency ratings (e.g., points scored, rebounds, assists)
@@ -36,21 +36,22 @@ Recommendations
 - Monitor player efficiency metrics to inform lineup decisions and strategy
 
 Dashboard Overview / Screenshots
-The Power BI dashboard provides an interactive overview of player and team performance, enabling stakeholders to drill down into key metrics and trends.
+The Excel dashboard provides an interactive overview of player and team performance, enabling stakeholders to drill down into key metrics and trends.
 
 !dashboard/screenshot.png
 
 Tools Used
+- Excel
 - Power BI
 
 Project Repository Structure
 - `/data`: Raw and processed data files
-- `/dashboard`: Power BI dashboard file and screenshot
+- `/dashboard`: Excel dashboard file and screenshot
 - `/docs`: Project documentation and README
 
 How to Reproduce
 1. Clone the repository and navigate to the project directory
-2. Open Power BI dashboard: `dashboard/nba_analysis.pbix`
+2. Open Excel dashboard: `dashboard/nba_analysis.pbix`
 3. Review data and insights in the dashboard
 
 Conclusion
