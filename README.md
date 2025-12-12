@@ -12,7 +12,7 @@ Data Description
 - *Source:* NBA player statistics (1990-2021)
 - *Period covered:*1990-2021 seasons
 - *Key fields:* Player name, team, position, games played, minutes played, points scored, rebounds, assists, steals, blocks, turnovers
-- *Size of dataset:* 1,500+ players, 30 teams
+- *Size of dataset:* 1,500+ players, 30+ teams
 
 Analytical Approach
 - Data cleaning and preprocessing using Power bi
